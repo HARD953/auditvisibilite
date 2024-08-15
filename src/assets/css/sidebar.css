@@ -1,0 +1,21 @@
+.sidebar-lanfiatech.ant-layout-sider.ant-layout-sider-dark{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    box-shadow: 5px 1px 2px #000;
+    /* width: 350px !important; */
+    overflow-y: auto;
+    background-color: var(--color-lanfia-primary-2);
+}
+
+
+.sidebar-lanfiatch-logo-container{
+    text-align: center;
+    padding: 10px 0px 0px 0px;
+    background-color: #fff;
+}
+
+.sidebar-lanfiatch-menu{
+    background-color:  var(--color-lanfia-primary-2);
+}

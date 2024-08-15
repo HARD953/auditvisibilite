@@ -1,0 +1,23 @@
+
+:root{
+  /* --color-lanfia-primary: #0958d9; */
+  --color-lanfia-primary: #5bcadd;
+  --color-lanfia-secondary: #09d9;
+  --color-lanfia-primary-2: #5bcadd;
+  --color-lanfia-primary-3: #0a0f65;
+  
+}
+
+*{
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0eeee;
+}

@@ -1,0 +1,21 @@
+
+.parametre-conteneur{
+
+}
+
+.parametre-conteneur ul.p-tabview-nav li.p-unselectable-text a{
+    text-decoration: none !important;
+    color: #635f5f !important;
+}
+
+
+.parametre-conteneur ul.p-tabview-nav li.p-unselectable-text.p-highlight a{
+    color: var(--color-lanfia-primary) !important;
+}
+
+
+
+
+.parametre-conteneur{
+    
+}
