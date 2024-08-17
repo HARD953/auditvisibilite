@@ -19,7 +19,7 @@ import { addLocale } from "primereact/api"
 import CommunesDataTableUser from "../dataTables/CommunesDataTableUser"
 import { attacheImageUrl } from "src/api/axiosInstance"
 import { Image } from "primereact/image"
-
+import React from 'react';
 
 
 

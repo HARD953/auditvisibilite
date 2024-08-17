@@ -8,6 +8,7 @@ import SupportDataTable from "src/components/dataTables/SupportDataTable";
 import SupportFiltresDialog from "src/components/dialogs/SupportFiltresDialog";
 import { getDateEnglishFormatYearMonthDay } from "src/utils/functionsUtils";
 // import { main_app_path } from "src/router";
+import React from 'react';
 
 function Supports() {
    const queryClient = useQueryClient();

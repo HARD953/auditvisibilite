@@ -1,4 +1,5 @@
 import AddSupport from "src/components/forms/addSupport";
+import React from 'react';
 
 export default function SupportsCreate() {
 

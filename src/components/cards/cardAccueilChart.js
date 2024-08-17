@@ -2,7 +2,7 @@ import "src/assets/css/cardAccueilChart.css"
 import Chart from 'react-apexcharts'
 import { customizeNumerFormat } from "src/utils/functionsUtils"
 import { useEffect, useState } from "react"
-
+import React from 'react';
 
 const ChartItems = ({value,title})=>{
 

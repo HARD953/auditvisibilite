@@ -2,7 +2,7 @@ import { Button } from "primereact/button"
 import { InputText } from "primereact/inputtext"
 import { useState } from "react"
 import { main_app_path } from "src/router"
-
+import React from 'react';
 import SuccesDialog from "../dialogs/succesDialog"
 import ErrorDialog from "../dialogs/errorDialog"
 import { Dropdown } from "primereact/dropdown"

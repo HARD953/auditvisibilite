@@ -4,7 +4,7 @@ import { useState } from "react";
 import {useParams } from "react-router-dom";
 import { getUtilisateur } from "src/api/users";
 import AddUser from "src/components/forms/addUser";
-
+import React from 'react';
 
 function UtilisateursUpdate() {
     // const location = useLocation()

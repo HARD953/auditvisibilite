@@ -1,5 +1,4 @@
-
-
+import React from 'react';
 import { GrAnalytics } from "react-icons/gr";
 import "src/assets/css/CardAuditAccueil.css"
 import { customizeNumerFormat } from "src/utils/functionsUtils";

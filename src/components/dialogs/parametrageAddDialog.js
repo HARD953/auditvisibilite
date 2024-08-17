@@ -1,10 +1,6 @@
-
 import React from "react";
 import { Dialog } from 'primereact/dialog';
 import AddParametre from "../forms/addParametre";
-
-
-
 
 export default function ParametrageAddDialog({
   visible,

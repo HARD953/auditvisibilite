@@ -1,6 +1,6 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit'
 import { loginUser, logoutUser } from 'src/api/users'
-
+import React from 'react';
 
 const stateIntite = { 
     user: {}, 

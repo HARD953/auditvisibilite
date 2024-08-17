@@ -2,7 +2,7 @@
 import { MapContainer, Marker, TileLayer, Tooltip } from 'react-leaflet'
 import L from 'leaflet';
 import "leaflet/dist/leaflet.css"
-
+import React from 'react';
 
 
 import icon from 'leaflet/dist/images/marker-icon.png';

@@ -1,5 +1,5 @@
 import { lazy } from 'react';
-
+import React from 'react';
 import ErrorPage from 'src/pages/others/error-page';
 import ProtectedRoute from './components/ProtectedRout';
 import MainLayout from './components/MainLayout';
